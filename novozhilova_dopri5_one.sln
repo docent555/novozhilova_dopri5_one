@@ -7,12 +7,18 @@ Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "novozhilova_dopri5_one", "n
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B1579C-049A-4B40-B08A-C4AE74644C37}.Debug|x64.ActiveCfg = Debug|x64
+		{16B1579C-049A-4B40-B08A-C4AE74644C37}.Debug|x64.Build.0 = Debug|x64
 		{16B1579C-049A-4B40-B08A-C4AE74644C37}.Debug|x86.ActiveCfg = Debug|Win32
 		{16B1579C-049A-4B40-B08A-C4AE74644C37}.Debug|x86.Build.0 = Debug|Win32
+		{16B1579C-049A-4B40-B08A-C4AE74644C37}.Release|x64.ActiveCfg = Release|x64
+		{16B1579C-049A-4B40-B08A-C4AE74644C37}.Release|x64.Build.0 = Release|x64
 		{16B1579C-049A-4B40-B08A-C4AE74644C37}.Release|x86.ActiveCfg = Release|Win32
 		{16B1579C-049A-4B40-B08A-C4AE74644C37}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
